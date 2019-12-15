@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c64f08e-6f00-4849-a587-8f54b774dbb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/media/shutter.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/media/webcam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/media/webcam.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam_min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/shutter.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/shutter.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_GImMC5V.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_LDBGrOC.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_g5RKu2p.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_gibdGc9.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_mzn1L4S.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_sXlu6RS.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_tDxmQYw.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_vIMyAjR.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/Score-Scan_--_ACT_Answers_and_Score_Scaling_Grids_-_FINAL_3.19.19_zyQPxsC.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/act_percentiles.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/act_percentiles_Fd1t5L4.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/310d6edd-b569-408a-a61d-f6d9a9a9eb61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/DomainModel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd_ARzyaQy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd_Cbp9Zxk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd_HVKg4Aq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd_iqnj3S2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/MYErd_mMu0iG0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_3Egi8wS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_6cF9z0k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_93XJkvr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_AAySdLv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_DRB8TNE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_HNu4LDF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_RFc3Ogt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_SASlK1F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_SrT8Xsc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_WrTSbFD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_bN2zUoh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_eyIu8oP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_izCsFrV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_jaEz7I1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_jdNAYnj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_ru76aCP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Myclass_7_yo2yfck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-09-07_23-52-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-10-04_02-22-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-10-29_19-53-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-10-29_19-53-07_gGy4Vtm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-03_01-18-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-20_00-09-28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-20_00-09-28_5S19Cmj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-20_00-09-28_8eQheEz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-20_00-09-28_DBHinAk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-11-20_00-09-28_VHKPVij.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2018-12-02_00-59-52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2019-01-13_22-09-34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/Screenshot_from_2019-03-22_00-44-56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/alter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/leo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/page1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/page1_z9wG2gV.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score_B954esB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score_BkxKu3z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score_EigRf8D.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score_Sa7dvOJ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/media/documents/scan_score_uhHpX8M.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/scan_score/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/scan_score/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/scan_score/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/scan_score/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/scan_score/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/scan_score/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/scan_score/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/fileupload.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/fileupload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/select-score.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/select-score.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/thank-you.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/scan_score/templates/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/scan_score/templates/welcome.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#630#662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/utills.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="286" column="32" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+              <folding>
+                <element signature="e#32#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Aws</find>
+      <find>core</find>
+      <find>src</find>
+      <find>&gt;</find>
+      <find>add</find>
+      <find>swf</find>
+      <find>Take</find>
+      <find>webcam</find>
+      <find>thanks</find>
+      <find>height</find>
+      <find>&lt;img</find>
+      <find>my_camera</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/backend/scan_score/scan_score</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend/scan_score" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Final_score/scan_score/requirements.txt" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/scan_score/models.py" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/scan_score/serializers.py" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/scan_score/views.py" />
+        <option value="$PROJECT_DIR$/Final_score/scan_score/scan_score/urls.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/forms.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/models.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/storage_backends.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/media/webcam.js" />
+        <option value="$PROJECT_DIR$/backend/scan_score/static/webcam.js" />
+        <option value="$PROJECT_DIR$/backend/scan_score/templates/add.html" />
+        <option value="$PROJECT_DIR$/backend/scan_score/templates/webcamjs/webcam_min.js" />
+        <option value="$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam_min.js" />
+        <option value="$PROJECT_DIR$/backend/scan_score/templates/fileupload.html" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/utills.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/templates/select-score.html" />
+        <option value="$PROJECT_DIR$/backend/scan_score/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/preview.html" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/model.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/admin.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/views.py" />
+        <option value="$PROJECT_DIR$/backend/scan_score/Procfile" />
+        <option value="$PROJECT_DIR$/backend/scan_score/scan_score/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="126" />
+    <option name="y" value="164" />
+    <option name="width" value="762" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="scan_score" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="scan_score" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="scan_score" type="462c0819:PsiDirectoryNode" />
+              <item name="scan_score" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Final_score_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_score_1" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OMR" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/scan_score/static/js/webcam" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/scan_score/static/img" />
+      <recent name="$PROJECT_DIR$/backend/scan_score/scan_score" />
+      <recent name="$PROJECT_DIR$/backend/scan_score/templates" />
+      <recent name="$PROJECT_DIR$/backend/scan_score/templates/webcamjs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Final_score_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/env/Final_score_1-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/scan_score" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c64f08e-6f00-4849-a587-8f54b774dbb2" name="Default Changelist" comment="" />
+      <created>1554446000738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554446000738</updated>
+      <workItem from="1554446002262" duration="6899000" />
+      <workItem from="1554459435190" duration="1204000" />
+      <workItem from="1554478857272" duration="509000" />
+      <workItem from="1554632353814" duration="242000" />
+      <workItem from="1554731944565" duration="1140000" />
+      <workItem from="1554740137860" duration="35000" />
+      <workItem from="1554970024859" duration="25131000" />
+      <workItem from="1555000612980" duration="31000" />
+      <workItem from="1555307646937" duration="14533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33224756" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32247558" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/admin.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/forms.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/models.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/mysite/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/mysite/urls.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/views.py" />
+    <entry file="file://$PROJECT_DIR$/Final_score/scan_score/scan_score/urls.py" />
+    <entry file="file://$USER_HOME$/snap/skype/common/storage_backends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/env/Final_score_1-env/lib/python3.6/site-packages/django/conf/urls/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/skype/common/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/hd.html" />
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/static/webcam.js" />
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/add.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/media/webcam.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/webcamjs/webcam.min.js" />
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/webcam.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam_min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18346" selection-start-line="1" selection-start-column="18346" selection-end-line="1" selection-end-column="18346" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/scan_score.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/models.py" />
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/static/js/webcam/webcam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2193">
+          <caret line="456" column="34" selection-start-line="456" selection-start-column="28" selection-end-line="456" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/thank-you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/fileupload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" column="90" selection-start-line="55" selection-start-column="90" selection-end-line="55" selection-end-column="90" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/select-score.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#option#0;n#select#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#option#1;n#select#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#option#2;n#select#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/templates/webcamjs/demos/preview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="89" column="132" selection-start-line="89" selection-start-column="132" selection-end-line="89" selection-end-column="132" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" column="16" lean-forward="true" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" lean-forward="true" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/storage_backends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/utills.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="286" column="32" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+          <folding>
+            <element signature="e#32#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/scan_score/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/scan_score/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
